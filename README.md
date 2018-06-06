@@ -8,7 +8,7 @@ My Role was to write Test suites Using Jasmine FrameWork
 
 You can Run it online Directly From Here 
 
-**Or you can Follow this steps to Run it locally**
+**Or you can Follow this steps to Run it locally**\
 1 - Clone it to your Pc\
 2 - Extract it\
 3 - open the Folder and run index.html\
